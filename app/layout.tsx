@@ -17,8 +17,9 @@ const pinyon = Pinyon_Script({
 })
 
 export const metadata: Metadata = {
-  title: 'Undangan Pernikahan',
-  description: 'Selamat datang di istana cinta kami. Buka undangan pernikahan kami.',
+  title: 'Amelia & Rafael — Wedding Invitation',
+  description:
+    'You are warmly invited to celebrate the wedding of Amelia & Rafael on Saturday, December 12, 2026 at The Rose Garden Estate.',
   generator: 'v0.app',
   icons: {
     icon: [
